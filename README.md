@@ -19,18 +19,6 @@ Interactive short-form fashion videos inside Myntra that seamlessly connect insp
 * AI/ML: Object detection + visual search
 * Database & Storage: MongoDB, S3
 
-🚀 Quick Start
-
-git clone <repo-url>
-cd myntra-reels
-# Install dependencies
-cd web && yarn install
-cd ../server && yarn install
-# Run locally
-cd web && yarn start
-cd ../server && yarn dev
-
-
 🎯 Impact
 
 * Boosts conversions & retention
